@@ -1,3 +1,6 @@
+This application uses Stephen Grider's ReduxSimpleStarter Boilerplate
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
